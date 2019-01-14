@@ -1,6 +1,6 @@
 {
   "name": "Lab 2: Data Types",
-  "endpoint": "ucsd/dsc10/fa18/lab02",
+  "endpoint": "ucsd/dsc10/wi19/lab02",
   "src": [
     "lab02.ipynb"
   ],
