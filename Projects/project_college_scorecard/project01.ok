@@ -1,6 +1,6 @@
 {
   "name": "Project 1: College Scorecard",
-  "endpoint": "ucsd/dsc10/fa18/project01",
+  "endpoint": "ucsd/dsc10/wi19/project01",
   "src": [
     "project01.ipynb"
   ],
