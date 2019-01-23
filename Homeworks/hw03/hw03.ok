@@ -1,6 +1,6 @@
 {
   "name": "Homework 3: Tables and Charts",
-  "endpoint": "ucsd/dsc10/fa18/hw03",
+  "endpoint": "ucsd/dsc10/wi19/hw03",
   "src": [
     "hw03.ipynb"
   ],
