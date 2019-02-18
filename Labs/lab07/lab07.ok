@@ -1,6 +1,6 @@
 {
   "name": "Resampling and the Bootstrap",
-  "endpoint": "ucsd/dsc10/fa18/lab07",
+  "endpoint": "ucsd/dsc10/wi19/lab07",
   "src": [
     "lab07.ipynb"
   ],
