@@ -1,6 +1,6 @@
 {
   "name": "Homework 7",
-  "endpoint": "ucsd/dsc10/fa18/hw07",
+  "endpoint": "ucsd/dsc10/wi19/hw07",
   "src": [
     "hw07.ipynb"
   ],
