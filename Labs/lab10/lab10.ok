@@ -1,6 +1,6 @@
 {
   "name": "Regression",
-  "endpoint": "ucsd/dsc10/fa18/lab10",
+  "endpoint": "ucsd/dsc10/wi19/lab10",
   "src": [
     "lab10.ipynb"
   ],
